@@ -1,7 +1,7 @@
-## search
+## Search suggestion with a neural network
 search suggestion for images using searched image ids as labels for a feed forward neural network.
 
-## User Metrics and AB testing
+## User Metrics
 Estimate the share ratio and average session duration for users using log data.
 
 ## AB testing
